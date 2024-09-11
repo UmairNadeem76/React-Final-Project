@@ -1,1 +1,1 @@
-# React-Project
+# Coursera Final React Project
